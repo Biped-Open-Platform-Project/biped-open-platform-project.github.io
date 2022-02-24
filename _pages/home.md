@@ -10,7 +10,7 @@ excerpt: >
   An open source walking robot for research.<br />
   3d printable and off-the-shelf components.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/watt-hybrid-leg.PNG
     alt: "Leg design"
     title: "Hybrid serial-parallel legs"
     excerpt: "An idea from a group at Disney Research that allows most of the actuators to be placed in the hip, resulting in a lighter structure."
