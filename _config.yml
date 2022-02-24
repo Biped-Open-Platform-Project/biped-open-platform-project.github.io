@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: oliverobst
 github_username: username
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -88,13 +88,6 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
   # _posts
   - scope:
       path: ""
@@ -106,6 +99,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
 category_archive:
   type: liquid
