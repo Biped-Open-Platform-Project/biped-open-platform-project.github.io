@@ -6,11 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/watt-robot-wide.PNG
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  An open source walking robot for education and research.<br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -37,3 +34,4 @@ feature_row:
 
 {% include feature_row %}
 
+The Biped Open Platform Project started with the idea to create an affordable yet capable platform for research in robotics and 2-legged locomotion. The components are mostly either 3d-printable, open-source, or off-the-shelf hardware. We're just getting started! At present, the project is in an early and untested stage, with many parts still undergoing actively design, testing, and changes. We make both early concepts and current versions available to allow reproduction, contributions, or spin-off projects. If you like or use this project, we'd love to hear about it!
