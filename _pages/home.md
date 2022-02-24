@@ -19,8 +19,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Open-source motor controller"
-    excerpt: "Open-source controllers for brushless motors, designed for legged robotics projects. An affordable solution to connect standard BLDC (drone) motors."
+    title: "BLDC motor controller"
+    excerpt: "Open-source, commercially available controllers for brushless motors, designed for legged robotics projects. An affordable solution to connect standard BLDC (drone) motors."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
