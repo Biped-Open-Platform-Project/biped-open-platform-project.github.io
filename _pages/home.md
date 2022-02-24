@@ -24,7 +24,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/img3633.jpg
     alt: "100% free"
     title: "Open-source design"
     excerpt: "Free to use however you want (BSD-License), and inspired by other high-quality open-source robotics projects. Affordable build."
