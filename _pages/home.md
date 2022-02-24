@@ -7,26 +7,27 @@ header:
   overlay_image: /assets/images/watt-robot-wide.PNG
   actions:
 excerpt: >
-  An open source walking robot for education and research.<br />
+  An open source walking robot for research.<br />
+  3d printable and off-the-shelf components.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Leg design"
+    title: "Hybrid serial-parallel legs"
+    excerpt: "An idea from a group at Disney Research that allows most of the actuators to be placed in the hip, resulting in a lighter structure."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Open-source motor controller"
+    excerpt: "Open-source controllers for brushless motors, designed for legged robotics projects. An affordable solution to connect standard BLDC (drone) motors."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    title: "Open-source design"
+    excerpt: "Free to use however you want (BSD-License), and inspired by other high-quality open-source robotics projects. Affordable build."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
