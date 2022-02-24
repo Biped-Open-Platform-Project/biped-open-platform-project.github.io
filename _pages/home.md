@@ -7,8 +7,9 @@ header:
   overlay_image: /assets/images/watt-robot-wide.PNG
   actions:
 excerpt: >
-  An open source walking robot for research.<br />
-  3d printable and off-the-shelf components.
+  An open source walking robot for research,<br />
+  3d printable and off-the-shelf components.<br />
+  <small><a href="https://github.com/Biped-Open-Platform-Project">Check out our GitHub</a></small>
 feature_row:
   - image_path: /assets/images/watt-hybrid-leg.PNG
     alt: "Leg design"
