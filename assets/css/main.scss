@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 /* ==========================================================================
-   Air skin
+   "Western" skin changes
    ========================================================================== */
 
 /* Colors */
@@ -16,6 +16,8 @@ $primary-color: #990033 !default;
 $border-color: mix(#fff, #006699, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #006699 !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
@@ -24,7 +26,10 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   color: #fff !important; // override
 }
 
-.page__footer-follow .social-icons .svg-inline--fa {
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
   color: inherit;
 }
 
