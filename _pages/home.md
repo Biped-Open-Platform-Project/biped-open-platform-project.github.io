@@ -18,10 +18,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/640x1.png
-    video:
-    id: 681721447
-    provider: vimeo
+  - image_path: /assets/videos/bopp-video-1b.gif
     title: "BLDC motor controller"
     excerpt: "We use open-source, commercially available controllers for brushless motors, designed for legged robotics projects."
     url: "/docs/layouts/"
