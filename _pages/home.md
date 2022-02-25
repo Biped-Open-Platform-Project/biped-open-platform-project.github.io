@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/watt-hybrid-leg.PNG
     alt: "Leg design"
     title: "Hybrid serial-parallel legs"
-    excerpt: "An idea from a group at Disney Research that allows most of the actuators to be placed in the hip, resulting in a lighter structure."
+    excerpt: "A hybrid serial-parallel leg design allows most of the actuators to be placed in the hip, resulting in a lighter structure."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
