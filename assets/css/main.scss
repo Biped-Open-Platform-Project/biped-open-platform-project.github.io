@@ -39,5 +39,5 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 $notice-background-mix: 90% !default;
 $code-notice-background-mix: 95% !default;
 
-/* @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin 
 @import "minimal-mistakes"; // main partials
