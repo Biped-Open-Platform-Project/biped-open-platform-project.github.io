@@ -15,7 +15,7 @@ feature_row:
     alt: "Leg design"
     title: "Hybrid serial-parallel legs"
     excerpt: "A hybrid serial-parallel leg design allows most of the actuators to be placed in the hip, resulting in a lighter structure."
-    url: "/docs/configuration/"
+    url: "/docs/hybrid-legs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/videos/bopp-video-1c.gif
