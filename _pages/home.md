@@ -18,7 +18,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - <video src="/assets/videos/bopp-video-1b.m4v" loop>
+  - <video src="/assets/videos/bopp-video-1b.m4v" loop> </video>
     title: "BLDC motor controller"
     excerpt: "We use open-source, commercially available controllers for brushless motors, designed for legged robotics projects."
     url: "/docs/layouts/"
