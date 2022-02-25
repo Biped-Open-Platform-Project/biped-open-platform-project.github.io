@@ -1,5 +1,6 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
+    <li><a href="https://www.westernsydney.edu.au/" rel="noopener noreferrer"><img width="200" alt="Western Sydney University" src="/assets/images/wsu_3sw.png" style="vertical-align: top;"></img></a> &nbsp; &nbsp; </li>
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -15,7 +16,6 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
       {% endunless %}
-      <li><a href="https://www.westernsydney.edu.au/" rel="noopener noreferrer"><img width="200" alt="Western Sydney University" src="/assets/images/wsu_3sw.png" style="vertical-align: top; float: right;"></img></a></li>
   </ul>
 </div>
 
