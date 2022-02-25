@@ -18,7 +18,8 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - video:
+  - image_path: /assets/images/640x1.png
+    video:
     id: 681721447
     provider: vimeo
     title: "BLDC motor controller"
