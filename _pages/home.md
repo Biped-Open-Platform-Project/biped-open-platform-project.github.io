@@ -8,7 +8,7 @@ header:
   actions:
 excerpt: >
   An open source walking robot for research,<br />
-  3d printable and off-the-shelf components.<br />
+  using 3d printable and off-the-shelf components.<br />
   <small><a href="https://github.com/Biped-Open-Platform-Project">Check out our GitHub</a></small>
 feature_row:
   - image_path: /assets/images/watt-hybrid-leg.PNG
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/img3633.jpg
     alt: "100% free"
     title: "Open-source design"
-    excerpt: "Free to use however you want (BSD-License), and inspired by other high-quality open-source robotics projects. Affordable build."
+    excerpt: "Free to use however you want (BSD License), and inspired by other high-quality open-source robotics projects, for an affordable build."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
