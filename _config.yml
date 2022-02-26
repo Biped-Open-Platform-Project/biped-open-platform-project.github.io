@@ -10,7 +10,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 title                    : "Biped Open Platform Project"
 title_separator          : "-"
 subtitle                 : "Open source robotics"
@@ -73,8 +73,7 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : &twitter "oliverobst"
-facebook:
-  username               : # &facebook "michaelrose"
+facebook:  username               : # &facebook "xxx"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -102,18 +101,12 @@ author:
   bio              : "Data Science and Robotics"
   location         : "Sydney, Australia"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oliverobst"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/OliverObst"
 
 
 # Site Footer
@@ -121,13 +114,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/oliverobst"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/Biped-Open-Platform-Project"
 
 
 # Reading Files
@@ -213,7 +203,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
