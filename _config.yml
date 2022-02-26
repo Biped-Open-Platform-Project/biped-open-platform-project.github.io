@@ -16,10 +16,10 @@ title_separator          : "-"
 subtitle                 : "Open source robotics"
 name                     : &name "Oliver Obst" # &name is a YAML anchor which can be *referenced later
 description              : &description "Website for the BOPP project."
-url                      : https://biped-open-platform-project.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://biped-open-platform-project.github.io # the base hostname & protocol for your site
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "/Biped-Open-Platform-Project"
-teaser                   : /assets/images/watt-robot-wide.PNG # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/watt-robot-wide.PNG # path of fallback teaser image
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -98,19 +98,16 @@ analytics:
 # Site Author
 author:
   name             : Oliver Obst # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Data Science and Robotics"
   location         : "Sydney, Australia"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oliverobst"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/Biped-Open-Platform-Project"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
