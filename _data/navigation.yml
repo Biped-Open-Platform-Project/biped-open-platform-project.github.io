@@ -16,20 +16,20 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 
 # main links
 main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Updates"
+  - title: "Sample Posts"
     url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
 
 
 # documentation links
