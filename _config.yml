@@ -10,7 +10,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-AU"
+locale                   : "en-US"
 title                    : "Biped Open Platform Project"
 title_separator          : "-"
 subtitle                 : "Open source robotics"
